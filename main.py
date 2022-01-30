@@ -1,3 +1,5 @@
-street_name = "Abbey Road"
+# Simple tip calculator using python basics
+print(">>>>>>>>>>>>>>>>>>>>>>>>>")
+print("Welcome to Tip Calculator!")
+print("__________________________")
 
-print(street_name[4] + street_name[7])
