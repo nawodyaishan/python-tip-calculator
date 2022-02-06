@@ -1,2 +1,2 @@
-# python-tip-calculator
+# Python Tip Calculator
  
